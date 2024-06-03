@@ -1,0 +1,17 @@
+release/card.o
+release/cardnode.o
+release/foundation.o
+release/foundation_w.o
+release/gameboard.o
+release/main.o
+release/mainwindow.o
+release/tableau.o
+release/tableau_w.o
+release/waste_w.o
+release/moc_foundation.o
+release/moc_foundation_w.o
+release/moc_gameboard.o
+release/moc_mainwindow.o
+release/moc_tableau.o
+release/moc_tableau_w.o
+release/moc_waste_w.o

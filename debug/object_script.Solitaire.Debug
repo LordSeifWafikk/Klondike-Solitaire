@@ -1,0 +1,17 @@
+debug/card.o
+debug/cardnode.o
+debug/foundation.o
+debug/foundation_w.o
+debug/gameboard.o
+debug/main.o
+debug/mainwindow.o
+debug/tableau.o
+debug/tableau_w.o
+debug/waste_w.o
+debug/moc_foundation.o
+debug/moc_foundation_w.o
+debug/moc_gameboard.o
+debug/moc_mainwindow.o
+debug/moc_tableau.o
+debug/moc_tableau_w.o
+debug/moc_waste_w.o
